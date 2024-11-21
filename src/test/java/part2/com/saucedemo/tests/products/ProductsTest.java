@@ -1,3 +1,4 @@
+// Author: Ellie Mirzaei
 package part2.com.saucedemo.tests.products;
 
 import com.saucedemo.pages.ProductsPage;
