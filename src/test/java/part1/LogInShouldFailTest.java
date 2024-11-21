@@ -1,3 +1,4 @@
+// Author: Ellie Mirzaei LinkedIn https://www.linkedin.com/in/elliemirzaei
 package part1;
 
 import org.openqa.selenium.By;
