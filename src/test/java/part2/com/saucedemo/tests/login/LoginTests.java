@@ -1,3 +1,4 @@
+// Author: Ellie Mirzaei
 package part2.com.saucedemo.tests.login;
 
 import org.testng.Assert;
