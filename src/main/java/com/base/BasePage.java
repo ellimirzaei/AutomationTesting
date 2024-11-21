@@ -1,3 +1,4 @@
+//Author: Ellie Mirzaei
 package com.base;
 
 import org.openqa.selenium.By;
@@ -26,7 +27,7 @@ public class BasePage {
   }
 
   public static void delay(int milliseconds) {
-    // Demo Purpose
+
     try {
       Thread.sleep(milliseconds);
     } catch(InterruptedException exc) {
