@@ -1,3 +1,4 @@
+// Author: Ellie Mirzaei
 package part1;
 
 import org.openqa.selenium.By;
